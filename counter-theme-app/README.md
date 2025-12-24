@@ -26,11 +26,12 @@ The goal of this app is to practice **React fundamentals**, especially state man
 
 ## 📁 Folder Structure
 
+```text
 counter-app/
 ├── src/
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
 │
 ├── public/
 │
@@ -41,43 +42,49 @@ counter-app/
 └── README.md
 
 ▶️ How to Run Locally
-
-Clone the repository:
+Clone the repository
+bash
+Copy code
 git clone https://github.com/Piyush495/basic-react-projects.git
-
-Navigate to the project folder:
+Navigate to the project folder
+bash
+Copy code
 cd basic-react-projects/counter-app
-
-Install dependencies:
+Install dependencies
+bash
+Copy code
 npm install
-
-Start the development server:
+Start the development server
+bash
+Copy code
 npm run dev
-
 Open your browser and visit:
-http://localhost:5173
+👉 http://localhost:5173
 
 🎯 Learning Objectives
-Understanding React component structure
 
-Using useState for state management
+-Understanding React component structure
 
-Handling user events (clicks)
+-Using useState for state management
 
-Implementing conditional rendering
+-Handling user events (clicks)
 
-Applying Tailwind CSS utility classes
+-Implementing conditional rendering
 
-Setting up and running a Vite + React project
+-Applying Tailwind CSS utility classes
+
+-Setting up and running a Vite + React project
 
 📌 Notes
-This project uses Tailwind CSS instead of traditional CSS files
 
-Designed as a foundational project for React beginners
+-This project uses Tailwind CSS instead of traditional CSS files
 
-Part of the Basic React Projects repository
+-Designed as a foundational project for React beginners
+
+-Part of the Basic React Projects repository
 
 👤 Author
+
 Piyush Gupta
 Computer Science Graduate
 
