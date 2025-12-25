@@ -28,7 +28,7 @@ Each project is maintained in its **own folder** with a dedicated setup and READ
 ---
 
 ## 📂 Repository Structure
-
+```text
 basic-react-projects/
 ├── counter-theme-app/
 ├
@@ -48,7 +48,7 @@ Each project folder contains:
 -A dedicated README.md
 
 
-▶️ Running a Project Locally
+## ▶️ Running a Project Locally
 
 Clone the repository:
 
@@ -71,9 +71,10 @@ cd counter-theme-app
 npm install
 
 npm run dev
+```
+---
 
-
-🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 -Understanding React component-based architecture
 
@@ -87,15 +88,17 @@ npm run dev
 
 -Using Vite for modern frontend development
 
+---
 
-📌 Notes
+## 📌 Notes
 
--Tailwind CSS is used instead of traditional CSS across all projects
+  -Tailwind CSS is used instead of traditional CSS across all projects
 
--Projects are kept small and focused for clarity
+  -Projects are kept small and focused for clarity
 
--This repository is designed for learning, practice, and portfolio use
+  -This repository is designed for learning, practice, and portfolio use
 
+---
 
 👤 Author
 

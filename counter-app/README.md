@@ -43,25 +43,24 @@ counter-app/
 
 ▶️ How to Run Locally
 Clone the repository
-bash
-Copy code
 git clone https://github.com/Piyush495/basic-react-projects.git
+
 Navigate to the project folder
-bash
-Copy code
 cd basic-react-projects/counter-app
+
 Install dependencies
-bash
-Copy code
 npm install
+
 Start the development server
-bash
-Copy code
 npm run dev
+
 Open your browser and visit:
 👉 http://localhost:5173
+```
+---
 
-🎯 Learning Objectives
+
+## 🎯 Learning Objectives
 
 -Understanding React component structure
 
@@ -75,7 +74,9 @@ Open your browser and visit:
 
 -Setting up and running a Vite + React project
 
-📌 Notes
+---
+
+## 📌 Notes
 
 -This project uses Tailwind CSS instead of traditional CSS files
 
@@ -83,7 +84,9 @@ Open your browser and visit:
 
 -Part of the Basic React Projects repository
 
-👤 Author
+---
+
+## 👤 Author
 
 Piyush Gupta
 Computer Science Graduate
